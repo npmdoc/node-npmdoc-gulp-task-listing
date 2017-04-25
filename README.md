@@ -1,9 +1,14 @@
-# api documentation for  [gulp-task-listing (v1.0.1)](https://github.com/OverZealous/gulp-task-listing)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-task-listing.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-task-listing) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-task-listing.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-task-listing)
+# npmdoc-gulp-task-listing
+
+#### basic api documentation for  [gulp-task-listing (v1.0.1)](https://github.com/OverZealous/gulp-task-listing)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-task-listing.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-task-listing) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-task-listing.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-task-listing)
+
 #### Adds the ability to provide a task listing for your gulpfile
 
-[![NPM](https://nodei.co/npm/gulp-task-listing.png?downloads=true)](https://www.npmjs.com/package/gulp-task-listing)
+[![NPM](https://nodei.co/npm/gulp-task-listing.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-task-listing)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-task-listing_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-task-listing/build/screenCapture.npmPackageListing.svg)
 
@@ -52,13 +57,11 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "overzealous",
-            "email": "phil@overzealous.com"
+            "name": "overzealous"
         }
     ],
     "name": "gulp-task-listing",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/OverZealous/gulp-task-listing.git"
@@ -66,19 +69,10 @@
     "scripts": {
         "test": "istanbul test _mocha --report html -- test/*.js --reporter spec"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-task-listing](#apidoc.module.gulp-task-listing)
-
-
-
-# <a name="apidoc.module.gulp-task-listing"></a>[module gulp-task-listing](#apidoc.module.gulp-task-listing)
 
 
 
